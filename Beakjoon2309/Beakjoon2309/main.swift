@@ -1,3 +1,6 @@
+/*
+ *  Beakjoon 2309번 문제 - 일곱 난쟁이
+ */
 
 import Foundation
 
