@@ -25,9 +25,3 @@ class beakjoon1152 {
 
 let customclass = beakjoon1152()
 customclass.solution()
-
-
-
-
-
-
