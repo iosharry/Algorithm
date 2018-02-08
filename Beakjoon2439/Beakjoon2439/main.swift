@@ -1,3 +1,6 @@
+/*
+ *  Beakjoon 2439번 문제 - 별찍기 2
+ */
 
 import Foundation
 
