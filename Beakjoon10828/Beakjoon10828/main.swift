@@ -1,3 +1,7 @@
+/*
+ *  Beakjoon 10828번 문제 - 스택
+ */
+
 import Foundation
 
 struct Stack<Int> {
