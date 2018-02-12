@@ -20,4 +20,6 @@
 
 [1152번 - 단어의 개수](./Beakjoon1152)
 
+[2450번 - 수 정렬하기](./Beakjoon2450)
+
 출처 - [백준 알고리즘](https://www.acmicpc.net/)
