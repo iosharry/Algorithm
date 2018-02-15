@@ -7,6 +7,7 @@ import Foundation
 class beakjoon1152 {
     
     func solution() {
+        
         let a = readLine()
         
         if let a = a {
