@@ -19,34 +19,31 @@ class beakjoon1181 {
         }
     }
     
-    // 출력
-    func resultPrint() {
+    func solution() {
         
-        // 1. Set을 이용해서 중복 값 제거
+        // Set을 이용해서 중복 값 제거
         arr = Array(Set(arr))
         
-        // 2. 사전 순으로 정렬
-        arr.sort()
-        
-        // 3. 버블 정렬을 이용하여 길이가 짧은 것부터 정렬
-        for _ in 0 ..< arr.count {
-            for j in 0 ..< arr.count - 1 {
-                if arr[j].count > arr[j+1].count {
-                    arr.swapAt(j, j+1)
-                }
+        arr.sort { (s1, s2) -> Bool in
+            if s1.count < s2.count {
+                return true
             }
+            else if s1.count == s2.count {
+                return s1 < s2
+            }
+            return false
         }
         
-        // 최종 출력
-        for i in 0 ..< arr.count {
-            print(arr[i])
+        // 출력
+        for i in arr {
+            print(i)
         }
     }
 }
 
 let customclass = beakjoon1181()
 customclass.getData()
-customclass.resultPrint()
+customclass.solution()
 
 /*
 but
