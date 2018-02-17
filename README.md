@@ -22,4 +22,6 @@
 
 [2450번 - 수 정렬하기](./Beakjoon2450)
 
+[1181번 - 단어 정렬](./Beakjoon1181)
+
 출처 - [백준 알고리즘](https://www.acmicpc.net/)
