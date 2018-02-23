@@ -32,4 +32,6 @@
 
 [2292번 - 벌집](./Beakjoon2292)
 
+[1193번 - 분수찾기](./Beakjoon1193)
+
 출처 - [백준 알고리즘](https://www.acmicpc.net/)
