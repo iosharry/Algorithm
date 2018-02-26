@@ -34,4 +34,6 @@
 
 [1193번 - 분수찾기](./Beakjoon1193)
 
+[2455번 - 지능형 기차](./Beakjoon2455)
+
 출처 - [백준 알고리즘](https://www.acmicpc.net/)
