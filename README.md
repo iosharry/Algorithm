@@ -36,4 +36,6 @@
 
 [2455번 - 지능형 기차](./Beakjoon2455)
 
+[2490번 - 윷놀이](./Beakjoon2490)
+
 출처 - [백준 알고리즘](https://www.acmicpc.net/)
