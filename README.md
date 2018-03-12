@@ -42,4 +42,6 @@
 
 [2941번 - 크로아티아 알파벳](./Beakjoon2941)
 
+[1026번 - 보물](./Beakjoon1026)
+
 출처 - [백준 알고리즘](https://www.acmicpc.net/)
