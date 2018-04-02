@@ -44,4 +44,8 @@
 
 [9012번 - 괄호](./Beakjoon9012)
 
+[1260번 - BFS와 DFS](./Beakjoon1260)
+
+[11047번 - 동전0](./Beakjoon11047)
+
 출처 - [백준 알고리즘](https://www.acmicpc.net/)
