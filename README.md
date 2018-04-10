@@ -48,4 +48,6 @@
 
 [11047번 - 동전0](./Beakjoon11047)
 
+[1427번 - 소트인사이드](./Beakjoon1427)
+
 출처 - [백준 알고리즘](https://www.acmicpc.net/)
