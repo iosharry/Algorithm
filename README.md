@@ -10,4 +10,8 @@
 
 [412번 - fizzbuzz](./LeetCode412)
 
+#### etc
+
+[정수쌍](./IntegerPairs), [9와 0](./9OR0)
+
 출처 - [백준 알고리즘](https://www.acmicpc.net/),  [LeetCode](https://leetcode.com/)
